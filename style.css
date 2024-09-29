@@ -31,16 +31,16 @@ body {
 }
 
 .navbar a {
-    color: white; /* Text color */
-    text-decoration: none; /* Remove underline from links */
-    font-size: 16px; /* Font size */
-    font-weight: bold; /* Bold text */
-    margin-right: 20px; /* Space between navbar items */
+    color: white;
+    text-decoration: none;
+    font-size: 16px; 
+    font-weight: bold;
+    margin-right: 20px; 
 }
 
-/* Remove margin for the last link */
+
 .navbar a:last-child {
-    margin-right: 0; /* Remove margin for the last item */
+    margin-right: 0;
 }
 
 
